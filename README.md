@@ -49,7 +49,7 @@ Funcionário
 - agencia — atributo simples
 - conta_com_digito — atributo simples
 
- ##Relacionamentos##
+ ## Relacionamentos
  
 Sequencia de informações (Relacionamento - Tipo e Descrição)
 
