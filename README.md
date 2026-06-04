@@ -58,3 +58,7 @@ Sequencia de informações (Relacionamento - Tipo e Descrição)
 - Condomínio e Unidade (1:N) Um condomínio possui várias unidades 
 - Proprietário e Unidade (1:N) Um proprietário pode ter várias unidades 
 - Funcionário e Condomínio (N:N) Um funcionário pode trabalhar em vários condomínios 
+
+## 2. Modelagem Conceitual
+
+![DER](Diagrama)
