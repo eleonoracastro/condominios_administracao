@@ -49,7 +49,8 @@ Funcionário
 - agencia — atributo simples
 - conta_com_digito — atributo simples
 
- #Relacionamentos#
+ ##Relacionamentos##
+ 
 Sequencia de informações (Relacionamento - Tipo e Descrição)
 
 - Condomínio e Conta Bancária (1:1) Cada condomínio possui uma única conta bancária ativa 
