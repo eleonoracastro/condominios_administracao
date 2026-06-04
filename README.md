@@ -65,5 +65,5 @@ Sequencia de informações (Relacionamento - Tipo e Descrição)
 
 ## 3. Modelo Lógico
 
-
+![Modelo Lógico](Modelo_Logico_Supabase)
 
