@@ -27,7 +27,6 @@ Unidade
 - id_unidade — atributo chave
 - numero — atributo simples
 - bloco — atributo simples
-- tipo — atributo simples (casa, apartamento, sala, chácara...)
 
 Proprietário
 - id_proprietario — atributo chave
