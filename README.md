@@ -62,3 +62,8 @@ Sequencia de informações (Relacionamento - Tipo e Descrição)
 ## 2. Modelagem Conceitual
 
 ![DER](Diagrama)
+
+## 3. Modelo Lógico
+
+
+
