@@ -160,3 +160,6 @@ CREATE TABLE public.proprietario_email (
   CONSTRAINT proprietario_email_pkey PRIMARY KEY (id),
   CONSTRAINT proprietario_email_id_proprietario_fkey FOREIGN KEY (id_proprietario) REFERENCES public.proprietario(id_proprietario)
 );
+
+## 4. MODELAGEM FISICA
+![MODELAGEM](modelagemfisica)
