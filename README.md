@@ -61,11 +61,11 @@ Sequencia de informações (Relacionamento - Tipo e Descrição)
 
 ## 2. Modelagem Conceitual
 
-![DER](Diagrama)
+![DER](imagens/Diagrama)
 
 ## 3. Modelo Lógico
 
-![Modelo Lógico](Supabase.modelo)
+![Modelo Lógico](imagens/Supabase.modelo)
 
 `Modelo Lógico SQL copiado do Supabase`  
 
@@ -162,4 +162,4 @@ CREATE TABLE public.proprietario_email (
 );
 
 ## 4. MODELAGEM FISICA
-![MODELAGEM](modelagemfisica)
+![MODELAGEM](imagens/modelagemfisica)
