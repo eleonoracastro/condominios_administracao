@@ -171,3 +171,7 @@ CREATE TABLE public.proprietario_email (
 
 ## 6. CRUD:
 
+Create:
+![CREATE](imagens/crud_create)
+
+Read:
