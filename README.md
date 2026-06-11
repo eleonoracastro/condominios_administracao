@@ -175,3 +175,4 @@ Create:
 ![CREATE](imagens/crud_create)
 
 Read:
+![READ](imagens/crud_read)
