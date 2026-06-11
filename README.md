@@ -176,3 +176,6 @@ Create:
 
 Read:
 ![READ](imagens/crud_read)
+
+Update:
+![UPDATE](imagens/crud_update)
