@@ -167,4 +167,7 @@ CREATE TABLE public.proprietario_email (
 
 ## 5. Inserção de Dados:
   Foram adicionados na pasta SQL (02_insercao_dados.sql)
-  
+  ![INSERÇÃO](imagens/parte5)
+
+## 6. CRUD:
+
