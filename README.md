@@ -163,3 +163,8 @@ CREATE TABLE public.proprietario_email (
 
 ## 4. MODELAGEM FISICA
 ![MODELAGEM](imagens/modelagemfisica)
+
+
+## 5. Inserção de Dados:
+  Foram adicionados na pasta SQL (02_insercao_dados.sql)
+  
