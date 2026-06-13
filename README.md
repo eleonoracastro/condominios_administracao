@@ -182,3 +182,5 @@ Update:
 
 Delete:
 ![DELETE](imagens/crud_delete.png)
+
+##7.CONSULTAS SQL 
