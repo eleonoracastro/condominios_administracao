@@ -179,3 +179,6 @@ Read:
 
 Update:
 ![UPDATE](imagens/crud_update)
+
+Delete:
+![DELETE](imagens/crud_delete.png)
