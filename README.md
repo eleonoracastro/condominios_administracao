@@ -183,4 +183,5 @@ Update:
 Delete:
 ![DELETE](imagens/crud_delete.png)
 
-##7.CONSULTAS SQL 
+## 7.CONSULTAS SQL 
+![RELATORIO](imagens/relatorio.png)
