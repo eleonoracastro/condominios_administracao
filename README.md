@@ -174,14 +174,22 @@ CREATE TABLE public.proprietario_email (
 Create:
 ![CREATE](imagens/crud_create)
 
+Creare cria uma nova tabela e insere novos registros, usando o comando INSERT INTO. É como "adicionar" uma nova linha de dados ao banco.
+
 Read:
 ![READ](imagens/crud_read)
+
+Read realiza uma consulta e retorna dados existentes, usando SELECT. Permite filtrar (WHERE), ordenar (ORDER BY) e combinar tabelas (JOIN).
 
 Update:
 ![UPDATE](imagens/crud_update)
 
+Altera valores de registros já existentes, usando UPDATE,SET,WHERE. O WHERE é essencial para não alterar todas as linhas sem querer.
+
 Delete:
 ![DELETE](imagens/crud_delete.png)
+
+Deleta registros de uma tabela, usando DELETE FROM -> WHERE. Também precisa do WHERE, senão apaga todos os dados da tabela.
 
 ## 7.CONSULTAS SQL 
 ![RELATORIO](imagens/relatorio.png)
